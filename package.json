@@ -1,6 +1,6 @@
 {
   "name": "@hamjs/rpc-client",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A NodeJS RPC Client for @hamjs/rpc-server",
   "main": "index.js",
   "scripts": {
