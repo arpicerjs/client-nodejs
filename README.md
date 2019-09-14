@@ -34,3 +34,6 @@ rpc
   })
   .catch(console.log);
 ```
+
+## Contributing
+Read [here](https://github.com/hadihammurabi/hamjs-rpc-server#contributing)!
