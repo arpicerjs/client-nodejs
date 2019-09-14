@@ -1,0 +1,20 @@
+{
+  "name": "@hamjs/rpc-client",
+  "version": "1.0.0",
+  "description": "A NodeJS RPC Client for @hamjs/rpc-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadihammurabi/hamjs-rpc-client-node.git"
+  },
+  "keywords": ["nodejs", "rpc", "hamjs"],
+  "author": "Hadi Hidayat Hammurabi <hadihammurabi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadihammurabi/hamjs-rpc-client-node/issues"
+  },
+  "homepage": "https://github.com/hadihammurabi/hamjs-rpc-client-node#readme"
+}
