@@ -6,7 +6,7 @@ A NodeJS RPC Client for [@hamjs/rpc-server](https://github.com/hadihammurabi/ham
 First, create your NodeJs project using `npm init` command.
 Then run command below inside that project.
 
-```npm i https://github.com/hadihammurabi/hamjs-rpc-client-node```
+```npm i @hamjs/rpc-client-node```
 
 ### Connecting to RPC Server
 Before you connect to RPC server, don't forget to run the server first
