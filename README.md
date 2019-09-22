@@ -28,9 +28,12 @@ All procedure calls are done with Promise. You can see example below.
 // call sum procedure
 // send parameters as an object
 rpc
-  .call('sum', { a: 1, b: 2 })
-  .then(res => {
-    console.log(res);
+  .sum(1, 2)
+  .then(sum => {
+    return rpc.min(sum, 5);
+  })
+  .then(min => {
+    console.log('result: ', min);
   })
   .catch(console.log);
 ```
